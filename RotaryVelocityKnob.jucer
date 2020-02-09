@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<JUCERPROJECT id="MJNFk2" name="RotaryVelocityKnob" projectType="guiapp" jucerVersion="5.4.5">
+<JUCERPROJECT id="MJNFk2" name="RotaryVelocityKnob" projectType="guiapp" jucerVersion="5.4.6"
+              projectLineFeed="&#10;">
   <MAINGROUP id="LZQZmH" name="RotaryVelocityKnob">
     <GROUP id="{7BC34941-09B1-3F8B-54F4-3BBB88467DC4}" name="Source">
       <FILE id="AJAVcL" name="MainComponent.h" compile="0" resource="0" file="Source/MainComponent.h"/>
